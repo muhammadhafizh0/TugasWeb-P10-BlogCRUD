@@ -1,7 +1,7 @@
 # TugasWeb-P10-BlogCRUD
 
-Tugas Rutin 10 — Pemrograman Web (3KOM40115), UNIMED, PSIK 25D.
-
+   Tugas Rutin 10 — Pemrograman Web (3KOM40115), UNIMED
+   Nama: Muhammad Hafizh Maulana· NIM: 4253550005 · Kelas: PSIK 25D
 ## Langkah Instalasi
 
 1. Buat project baru (bisa lanjutan dari project TR9 atau project baru):
